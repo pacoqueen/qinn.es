@@ -3,7 +3,7 @@
 <TITLE>404</TITLE>
 </HEAD><BODY>
 <H1>Computer says no</H1>
-<IMG SRC="/carolbeer.jpg" ALT="Carol Beer says that computer says no.">
+<IMG SRC="img/carolbeer.jpg" ALT="Carol Beer says that computer says no.">
 <p>
 <strong>Error 404</strong>. <a href="http://qinn.es">Sigue buscando.</a>
 </p>
