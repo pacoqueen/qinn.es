@@ -7,10 +7,9 @@
 
 # THANKS
 
-    [HTML5★BOILERPLATE](https://html5boilerplate.com/)
+    HTML5 Boilerplate
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
-
+    HTML5, CSS3
+    jQuery, Modernizr
