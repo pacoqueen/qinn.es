@@ -11,7 +11,12 @@
       'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
       })(window,document,'script','dataLayer','GTM-MNSQKRC');</script>
   <!-- End Google Tag Manager -->
-
+  <script>
+    function decryptEmail(encoded) {
+      var address = atob(encoded);
+      window.location.href = "mailto:" + address;
+    }
+  </script>
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <title>Q-INN</title>
   <meta name="description" content="">
@@ -90,7 +95,7 @@
       <img src="img/eleven.png" style="width:100%">
       <!--      <img src="img/planetas.png" style="width:100%"> -->
       <div class="w3-display-middle w3-large w3-container w3-padding-16">
-        <a href="mailto:bogado@qinn.es"><img class="imgcontent" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Mail_iOS.svg" alt="bogado@qinn.es"></a>
+        <a href="javascript:decryptEmail('Ym9nYWRvQHFpbm4uZXM=');"><img class="imgcontent" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Mail_iOS.svg" alt="bogado@qinn.es"></a>
       </div>
     </div>
 
