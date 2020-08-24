@@ -90,3 +90,25 @@ blockquote {
   text-align: center;
 }
 
+dl {
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-auto-columns: 1fr;
+    grid-auto-flow: column;
+}
+
+.oro {
+  color: gold;
+}
+
+.plata {
+  color: silver;
+}
+
+.bronce {
+  color: #cd7f32;
+}
+
+header {
+ text-align: center;
+}
