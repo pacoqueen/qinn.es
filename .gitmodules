@@ -1,0 +1,3 @@
+[submodule "Django-personal-website"]
+	path = Django-personal-website
+	url = git@github.com:pacoqueen/Django-personal-website.git
