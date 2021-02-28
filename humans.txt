@@ -7,10 +7,9 @@
 
 # THANKS
 
-    [HTML5★BOILERPLATE](https://html5boilerplate.com/)
+    Django★[Vlad Moroshan](https://github.com/vladislavalerievich/Django-personal-website)
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    CSS3, HTML5, Django, SQLite
 
